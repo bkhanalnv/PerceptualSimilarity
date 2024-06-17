@@ -1,3 +1,5 @@
 *.pyc
 
 checkpoints/*
+data/dataset/kadid10k.zip
+data/dataset/kadid10k
